@@ -1,2 +1,2 @@
-# calculator
-simple calculator
+# leave-application
+leave application
